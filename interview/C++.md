@@ -1,5 +1,5 @@
 * **一.变量**
-    * 1）[全局变量与static变量？](https://blog.csdn.net/wangbeibei23/article/details/77455807)（作用域、生存周期）（([程序的内存分配]（https://blog.csdn.net/qq_22238021/article/details/79533711）)）
+    * 1）[全局变量与static变量？](https://blog.csdn.net/wangbeibei23/article/details/77455807)（作用域、生存周期）
     * 2）[static函数与普通函数的区别？](temp/C++.md#4static函数与普通函数的区别)
     * 3）两个文件中声明两个同名变量？（使用了与未使用extern？） 
     * 4）全局数组和局部数组的初始化？
